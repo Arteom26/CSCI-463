@@ -13,15 +13,15 @@ $  source yourVirtualEnvironmentName/bin/activate
 
 # Make sure `install_reqs.[bat, sh]` and `requirements.txt` are in your current directory. Then install the requirements in your virtual environment.
 # For Windows
-$  dir install_reqs.bat
-$  dir requirements.txt
-$  install_reqs.bat
+$  dir install_reqs.bat  
+$  dir requirements.txt  
+$  install_reqs.bat  
 
 # For Linux
-$  ls -l install_reqs.sh
-$  ls -l requirements.txt
-$  chmod +x install_reqs.sh
-$  ./install_reqs.sh
+$  ls -l install_reqs.sh  
+$  ls -l requirements.txt  
+$  chmod +x install_reqs.sh  
+$  ./install_reqs.sh  
 
 # Now you should be set up to train transformer models.
 
