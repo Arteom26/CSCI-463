@@ -1,4 +1,4 @@
-# Create your own virtual environment from your terminal (CMD, Git, Powershell, etc.)
+# Create your own virtual environment from your terminal (CMD, Git Bash, Powershell, etc.)
 $  python3 -m venv yourVirtualEnvironmentName
 
 # Activate the virtual environment
